@@ -1,4 +1,3 @@
-
 Objective:
 The primary objective of this project is to model a battery electric vehicle (BEV) equipped with a sophisticated cooling system designed for its motor. The modeling process aims to size and optimize mechanical, electrical, and fluid components within the vehicle. The ultimate goal is to evaluate the vehicle's performance during a passing maneuver, utilizing real-time data such as speed, torque, and temperature measurements. Through this simulation, the project seeks to determine if the system requirements are adequately met, ensuring the efficiency and reliability of the BEV.
 
