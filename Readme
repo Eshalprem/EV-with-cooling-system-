@@ -1,7 +1,12 @@
-Projects: Battery Electric Vehicle Modeling with Simscape in MATLAB
+<h> **Objective:**
+The primary objective of this project is to model a battery electric vehicle (BEV) equipped with a sophisticated cooling system designed for its motor. The modeling process aims to size and optimize mechanical, electrical, and fluid components within the vehicle. The ultimate goal is to evaluate the vehicle's performance during a passing maneuver, utilizing real-time data such as speed, torque, and temperature measurements. Through this simulation, the project seeks to determine if the system requirements are adequately met, ensuring the efficiency and reliability of the BEV.
 
-Successfully modeled a battery electric vehicle in MATLAB using guided educational content and Simscape.
-Optimized motor torque requirements through simulation of a passing maneuver.
-Applied real-world data from datasheets to refine the electric motor model.
-Implemented Simscape fluid components for an efficient cooling system.
-This project demonstrated proficiency in MATLAB and Simscape, showcasing skills in system-level design, simulation, and practical application of theoretical knowledge.
+**Aim:**
+The specific aim of this project is to achieve a comprehensive understanding of the interactions and dependencies among the mechanical, electrical, and fluid components within a battery electric vehicle. By employing simulation techniques, the project aims to refine and optimize the sizing of these components, with a focus on the cooling system for the motor. The passing maneuver scenario serves as a dynamic test case to assess the vehicle's overall performance, ensuring that it meets or exceeds predefined system requirements.
+
+**Description:**
+This project involves the creation of a detailed simulation model for a battery electric vehicle, incorporating a specialized cooling system designed for the motor. The simulation utilizes advanced techniques to size and optimize the mechanical, electrical, and fluid components, ensuring that they operate within specified parameters. The passing maneuver scenario, a critical and dynamic driving situation, serves as the testing ground for evaluating the vehicle's capabilities.
+
+The simulation model considers real-world factors such as speed, torque, and temperature, providing a holistic assessment of the system's performance during the passing maneuver. The project aims to identify potential areas for improvement and refinement, ensuring that the battery electric vehicle meets the desired standards for efficiency, safety, and reliability.
+
+As part of the learning process, the project relies on educational resources, particularly electrical SimScape videos. These videos provide essential insights into the principles and applications of SimScape, guiding the development and refinement of the simulation model. Through the integration of theoretical knowledge and practical simulation exercises, the project aims to enhance skills related to electric vehicle system modeling, component sizing, and performance evaluation.</h>
